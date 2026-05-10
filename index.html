@@ -247,20 +247,16 @@
     .container { padding: 0 1.25rem; }
 
     .hero {
-      grid-template-columns: 1fr;
+      flex-direction: column;
       padding: 90px 0 48px;
       gap: 2.5rem;
       text-align: center;
     }
-    .hero-badge { margin-left: auto; margin-right: auto; }
+    .hero-text { display: flex; flex-direction: column; align-items: center; }
     .hero h1 { font-size: 38px; letter-spacing: -1.5px; }
-    .hero p { margin-left: auto; margin-right: auto; }
-    .hero-btns { justify-content: center; }
-
-    .phones { justify-content: center; }
-    .phone { width: 140px; }
-    .phone-a { height: 276px; }
-    .phone-b { height: 232px; margin-top: 32px; }
+    .hero p { margin-left: auto; margin-right: auto; text-align: center; }
+    .phones { display: flex; justify-content: center; }
+    .phone-hero { width: 220px; }
 
     .stats-bar { flex-wrap: wrap; gap: 0.75rem; }
     .stat { flex: 1 1 calc(50% - 0.75rem); padding: 1.25rem 1rem; }
@@ -269,7 +265,7 @@
     .section-title { font-size: 28px; }
 
     .steps { grid-template-columns: 1fr; gap: 1rem; }
-    .features-grid { grid-template-columns: 1fr; }
+    .features-grid { grid-template-columns: 1fr 1fr; }
 
     .cta-section { padding: 2.5rem 1.5rem; border-radius: var(--radius-lg); }
     .cta-section h2 { font-size: 28px; }
@@ -282,10 +278,8 @@
 
   @media (max-width: 480px) {
     .hero h1 { font-size: 32px; }
-    .phones { gap: 10px; }
-    .phone { width: 128px; }
-    .phone-a { height: 252px; }
-    .phone-b { height: 210px; margin-top: 28px; }
+    .phone-hero { width: 180px; }
+    .features-grid { grid-template-columns: 1fr; }
     .btn-dark, .btn-outline { padding: 12px 20px; font-size: 13px; }
   }
 
