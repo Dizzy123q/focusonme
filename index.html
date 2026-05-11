@@ -99,7 +99,7 @@
     font-size: 14px; font-weight: 400; color: var(--gray-400); line-height: 1.6;
     max-width: 360px; margin-top: .5rem;
   }
-  .hero-btns { display: flex; gap: 10px; align-items: center; }
+  .hero-btns { display: flex; gap: 10px; align-items: center; margin-top: 1.5rem; }
   .btn-dark {
     background: var(--black); color: var(--white);
     border: none; padding: 14px 26px; border-radius: 50px;
@@ -247,20 +247,17 @@
     .container { padding: 0 1.25rem; }
 
     .hero {
-      grid-template-columns: 1fr;
+      flex-direction: column-reverse;
       padding: 90px 0 48px;
-      gap: 2.5rem;
+      gap: 2rem;
       text-align: center;
     }
     .hero-badge { margin-left: auto; margin-right: auto; }
     .hero h1 { font-size: 38px; letter-spacing: -1.5px; }
-    .hero p { margin-left: auto; margin-right: auto; }
+    .hero p,
+    .hero-sub { margin-left: auto; margin-right: auto; }
     .hero-btns { justify-content: center; }
-
-    .phones { justify-content: center; }
-    .phone { width: 140px; }
-    .phone-a { height: 276px; }
-    .phone-b { height: 232px; margin-top: 32px; }
+    .phone-hero { width: 220px; margin: 0 auto; }
 
     .stats-bar { flex-wrap: wrap; gap: 0.75rem; }
     .stat { flex: 1 1 calc(50% - 0.75rem); padding: 1.25rem 1rem; }
@@ -282,10 +279,7 @@
 
   @media (max-width: 480px) {
     .hero h1 { font-size: 32px; }
-    .phones { gap: 10px; }
-    .phone { width: 128px; }
-    .phone-a { height: 252px; }
-    .phone-b { height: 210px; margin-top: 28px; }
+    .phone-hero { width: 180px; }
     .btn-dark, .btn-outline { padding: 12px 20px; font-size: 13px; }
   }
 
@@ -325,6 +319,10 @@
       </div>
       <h1>Try before<br><span class="light">you buy.</span></h1>
       <p>See any outfit on yourself before you buy it — no more guessing, no more returns, just confidence every time you shop.</p>
+      <div class="hero-btns">
+        <button class="btn-dark">Download app</button>
+        <button class="btn-outline">Learn more</button>
+      </div>
     </div>
     <div class="phones">
       <div class="phone-hero">
