@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TryFit AI — Try before you buy</title>
+<title>focus on me — Try before you buy</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -49,7 +49,7 @@
     display: flex; align-items: center; justify-content: space-between;
     padding: 0 2rem; height: 60px;
   }
-  .nav-logo { font-size: 18px; font-weight: 600; letter-spacing: -0.5px; }
+  .nav-logo { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; }
   .nav-links { display: flex; gap: 2.5rem; }
   .nav-links a { font-size: 15px; color: var(--gray-600); text-decoration: none; transition: color .2s; }
   .nav-links a:hover { color: var(--black); }
@@ -247,16 +247,20 @@
     .container { padding: 0 1.25rem; }
 
     .hero {
-      flex-direction: column;
+      grid-template-columns: 1fr;
       padding: 90px 0 48px;
       gap: 2.5rem;
       text-align: center;
     }
-    .hero-text { display: flex; flex-direction: column; align-items: center; }
+    .hero-badge { margin-left: auto; margin-right: auto; }
     .hero h1 { font-size: 38px; letter-spacing: -1.5px; }
-    .hero p { margin-left: auto; margin-right: auto; text-align: center; }
-    .phones { display: flex; justify-content: center; }
-    .phone-hero { width: 220px; }
+    .hero p { margin-left: auto; margin-right: auto; }
+    .hero-btns { justify-content: center; }
+
+    .phones { justify-content: center; }
+    .phone { width: 140px; }
+    .phone-a { height: 276px; }
+    .phone-b { height: 232px; margin-top: 32px; }
 
     .stats-bar { flex-wrap: wrap; gap: 0.75rem; }
     .stat { flex: 1 1 calc(50% - 0.75rem); padding: 1.25rem 1rem; }
@@ -265,7 +269,7 @@
     .section-title { font-size: 28px; }
 
     .steps { grid-template-columns: 1fr; gap: 1rem; }
-    .features-grid { grid-template-columns: 1fr 1fr; }
+    .features-grid { grid-template-columns: 1fr; }
 
     .cta-section { padding: 2.5rem 1.5rem; border-radius: var(--radius-lg); }
     .cta-section h2 { font-size: 28px; }
@@ -278,8 +282,10 @@
 
   @media (max-width: 480px) {
     .hero h1 { font-size: 32px; }
-    .phone-hero { width: 180px; }
-    .features-grid { grid-template-columns: 1fr; }
+    .phones { gap: 10px; }
+    .phone { width: 128px; }
+    .phone-a { height: 252px; }
+    .phone-b { height: 210px; margin-top: 28px; }
     .btn-dark, .btn-outline { padding: 12px 20px; font-size: 13px; }
   }
 
@@ -300,7 +306,7 @@
 
 <nav>
   <div class="nav-inner">
-    <div class="nav-logo">TryFit AI</div>
+    <div class="nav-logo">focus on me</div>
     <div class="nav-links">
       <a href="#how">How it works</a>
       <a href="#features">Features</a>
@@ -322,7 +328,7 @@
     </div>
     <div class="phones">
       <div class="phone-hero">
-        <img src="hero.png" alt="TryFit AI app screenshot">
+        <img src="hero.png" alt="focus on me app screenshot">
       </div>
     </div>
   </section>
@@ -429,13 +435,13 @@
 <div class="container">
   <footer>
     <div class="footer-inner">
-      <div class="footer-logo">TryFit AI</div>
+      <div class="footer-logo">focus on me</div>
       <div class="footer-links">
         <a href="privacy-policy.html">Privacy policy</a>
         <a href="terms.html">Terms of use</a>
         <a href="contact.html">Contact</a>
       </div>
-      <div class="footer-copy">© 2025 TryFit AI</div>
+      <div class="footer-copy">© 2025 focus on me</div>
     </div>
   </footer>
 </div>
