@@ -1,0 +1,191 @@
+{
+  "code": "nl",
+  "name": "Nederlands",
+  "html_lang": "nl",
+  "meta": {
+    "title": "focus on me — Passen voordat je koopt",
+    "description": "Zie elke outfit op jezelf voordat je hem koopt. Virtueel passen met AI, meer dan 4.000 echte producten, resultaat in ongeveer 30 seconden, en foto's die je telefoon nooit verlaten."
+  },
+  "nav": {
+    "how": "Hoe het werkt",
+    "features": "Functies",
+    "credits": "Credits",
+    "faq": "FAQ",
+    "cta": "Download de app",
+    "back": "Terug naar home",
+    "language": "Taal"
+  },
+  "hero": {
+    "badge": "Virtueel passen met AI",
+    "h1a": "Passen voordat",
+    "h1b": "je koopt.",
+    "sub": "Zie elke outfit op jezelf voordat je hem bestelt. Kies een item, voeg je foto toe, en in ongeveer 30 seconden weet je of het een ja is.",
+    "note": "Gratis credits bij aanmelding · Foto's worden nooit opgeslagen",
+    "soon": "Binnenkort",
+    "appstore": "App Store",
+    "play": "Google Play",
+    "chip1": "4.000+ producten",
+    "chip2": "~30 s per look"
+  },
+  "stats": [
+    {
+      "num": "4.000+",
+      "label": "Producten van echte winkels"
+    },
+    {
+      "num": "~30 s",
+      "label": "Voor een look"
+    },
+    {
+      "num": "8",
+      "label": "Talen"
+    },
+    {
+      "num": "0",
+      "label": "Foto's bewaard op onze servers"
+    }
+  ],
+  "how": {
+    "eyebrow": "Hoe het werkt",
+    "title_a": "Drie stappen naar",
+    "title_b": "je perfecte outfit.",
+    "sub": "Blader door de catalogus, kies wat je mooi vindt en zie het op jezelf, voordat je één euro uitgeeft.",
+    "steps": [
+      {
+        "title": "Kies een item of upload je eigen",
+        "desc": "Blader door meer dan 4.000 echte producten van winkels die je kent, of upload een foto van elk kledingstuk dat je mooi vindt. In beide gevallen ben je één tik verwijderd van passen."
+      },
+      {
+        "title": "Voeg je foto toe",
+        "desc": "Kies een foto uit je galerij of maak een nieuwe. Meer heeft de AI niet nodig."
+      },
+      {
+        "title": "Zie jezelf ermee",
+        "desc": "In ongeveer 30 seconden zie je hoe het je staat. Mooi? Koop het bij de winkel. Niet overtuigd? Blader verder."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Functies",
+    "title_a": "Alles wat je nodig hebt",
+    "title_b": "om slimmer te shoppen.",
+    "items": [
+      {
+        "title": "Elk kledingstuk, niet alleen de catalogus",
+        "desc": "Iets gezien op een andere site, of hangt het al in je kast? Upload een foto van het kledingstuk en pas het op dezelfde manier."
+      },
+      {
+        "title": "Resultaat in ~30 seconden",
+        "desc": "Een realistische pasbeurt, gegenereerd terwijl je wacht. Geen wachtrij, geen e-mail, geen andere app."
+      },
+      {
+        "title": "4.000+ producten",
+        "desc": "Echte artikelen van echte winkels, met echte prijzen. De catalogus blijft groeien."
+      },
+      {
+        "title": "Je foto's blijven van jou",
+        "desc": "Je foto wordt alleen gebruikt om het resultaat te maken en daarna verwijderd. Niets wordt in de cloud bewaard en niets traint AI-modellen."
+      },
+      {
+        "title": "Deel je looks",
+        "desc": "Sla het resultaat op en plaats het direct op TikTok of Instagram."
+      },
+      {
+        "title": "8 talen",
+        "desc": "Engels, Roemeens, Frans, Duits, Spaans, Italiaans, Portugees en Nederlands."
+      },
+      {
+        "title": "Gratis beginnen",
+        "desc": "Je krijgt gratis credits bij aanmelding. Koop er alleen meer als je dat wilt."
+      }
+    ]
+  },
+  "credits": {
+    "eyebrow": "Credits",
+    "title_a": "Begin gratis.",
+    "title_b": "Betaal alleen als je het geweldig vindt.",
+    "sub": "Elke pasbeurt kost één credit. Geen abonnement, geen kaart nodig om te beginnen.",
+    "items": [
+      {
+        "title": "Gratis credits bij aanmelding",
+        "desc": "Maak een account en probeer de app meteen."
+      },
+      {
+        "title": "Creditpakketten als je meer nodig hebt",
+        "desc": "Koop extra credits in de app. Gekochte credits verlopen niet."
+      },
+      {
+        "title": "Afgehandeld door Apple en Google",
+        "desc": "Betalingen lopen via de App Store of Google Play. Wij zien je kaart nooit."
+      }
+    ],
+    "note": "Terugbetalingen worden afgehandeld door Apple of Google.",
+    "note_link": "Lees ons terugbetalingsbeleid"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title_a": "Vragen,",
+    "title_b": "beantwoord.",
+    "items": [
+      {
+        "q": "Is focus on me gratis?",
+        "a": "Ja. Je krijgt gratis credits als je een account maakt. Zijn ze op, dan kun je creditpakketten in de app kopen, maar dat hoeft nooit."
+      },
+      {
+        "q": "Hoe nauwkeurig is het passen?",
+        "a": "Het resultaat is een door AI gegenereerde preview die laat zien hoe een item op je lichaam staat, qua vorm, kleur en verhoudingen. Het is een visuele leidraad, geen pasgarantie, dus check altijd de maattabel van de winkel."
+      },
+      {
+        "q": "Wat gebeurt er met mijn foto?",
+        "a": "Die wordt alleen naar onze AI-dienst gestuurd als je op Passen tikt, gebruikt om je resultaat te maken en daarna verwijderd. We bewaren hem niet, we trainen er geen modellen mee, en het resultaat wordt alleen op je telefoon opgeslagen."
+      },
+      {
+        "q": "Waar komen de producten vandaan?",
+        "a": "Uit de webshops van echte winkels, via affiliatenetwerken. Je koopt rechtstreeks bij de winkel, tegen de prijs van de winkel."
+      },
+      {
+        "q": "Kan ik kleding passen die niet in de catalogus staat?",
+        "a": "Ja. Upload een foto van elk kledingstuk, van een website, een screenshot of je eigen kast, en de app rendert het op jou net als een catalogusitem."
+      },
+      {
+        "q": "Koop ik kleding in de app?",
+        "a": "Nee. focus on me laat het item op jou zien en stuurt je naar de website van de winkel om de aankoop af te ronden. Levering, maten en retouren regelt de winkel."
+      },
+      {
+        "q": "Hoe lang duurt een pasbeurt?",
+        "a": "Ongeveer 30 seconden, afhankelijk van je verbinding."
+      },
+      {
+        "q": "Kan ik credits terugbetaald krijgen?",
+        "a": "Betalingen worden verwerkt door Apple of Google, dus terugbetalingsverzoeken lopen via hen. Ons terugbetalingsbeleid legt precies uit hoe."
+      },
+      {
+        "q": "Hoe oud moet ik zijn?",
+        "a": "Minstens 13, of de minimumleeftijd voor toestemming voor gegevensverwerking in jouw land. Tussen 13 en 18 heb je toestemming van een ouder of voogd nodig."
+      }
+    ]
+  },
+  "cta": {
+    "title_a": "Pas het",
+    "title_b": "vandaag nog.",
+    "sub": "Binnenkort in de App Store en op Google Play."
+  },
+  "footer": {
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden",
+    "refund": "Terugbetalingsbeleid",
+    "contact": "Contact",
+    "copy": "© 2026 Cubo Software · focus on me",
+    "legal_note": "De juridische pagina's zijn voor het gemak vertaald. Bij verschillen geldt de Engelse versie."
+  },
+  "contact": {
+    "title": "Contact",
+    "meta": "We reageren meestal binnen 24 uur.",
+    "intro": "Een vraag, een bug of een probleem met een aankoop? Mail ons direct.",
+    "label": "Support en algemene vragen",
+    "desc": "Problemen met de app of het passen, aankopen en credits, verzoeken over je gegevens.",
+    "button": "E-mail sturen",
+    "hint_title": "Afgeschreven maar geen credits ontvangen?",
+    "hint": "Mail ons en we lossen het op. Terugbetalingsverzoeken lopen via Apple of Google."
+  }
+}

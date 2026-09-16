@@ -1,0 +1,191 @@
+{
+  "code": "ro",
+  "name": "Română",
+  "html_lang": "ro",
+  "meta": {
+    "title": "focus on me — Probează înainte să cumperi",
+    "description": "Vezi orice ținută pe tine înainte să o cumperi. Probă virtuală cu AI, peste 4.000 de produse reale, rezultat în circa 30 de secunde și poze care nu părăsesc telefonul."
+  },
+  "nav": {
+    "how": "Cum funcționează",
+    "features": "Funcții",
+    "credits": "Credite",
+    "faq": "Întrebări",
+    "cta": "Descarcă aplicația",
+    "back": "Înapoi acasă",
+    "language": "Limbă"
+  },
+  "hero": {
+    "badge": "Probă virtuală cu AI",
+    "h1a": "Probează înainte",
+    "h1b": "să cumperi.",
+    "sub": "Vezi orice ținută pe tine înainte să o comanzi. Alegi o piesă, adaugi poza ta și în circa 30 de secunde știi dacă e un da.",
+    "note": "Credite gratuite la înregistrare · Pozele nu se stochează",
+    "soon": "În curând",
+    "appstore": "App Store",
+    "play": "Google Play",
+    "chip1": "4.000+ produse",
+    "chip2": "~30s pe ținută"
+  },
+  "stats": [
+    {
+      "num": "4.000+",
+      "label": "Produse de la magazine reale"
+    },
+    {
+      "num": "~30s",
+      "label": "Pentru o ținută"
+    },
+    {
+      "num": "8",
+      "label": "Limbi"
+    },
+    {
+      "num": "0",
+      "label": "Poze păstrate pe serverele noastre"
+    }
+  ],
+  "how": {
+    "eyebrow": "Cum funcționează",
+    "title_a": "Trei pași până la",
+    "title_b": "ținuta perfectă.",
+    "sub": "Răsfoiești catalogul, alegi ce îți place, apoi o vezi pe tine, înainte să cheltui un singur leu.",
+    "steps": [
+      {
+        "title": "Alege o piesă sau încarcă-ți propria poză",
+        "desc": "Răsfoiește peste 4.000 de produse reale din magazine pe care le știi deja, sau încarcă o poză cu orice haină îți place. În ambele cazuri ești la o atingere de probă."
+      },
+      {
+        "title": "Adaugă poza ta",
+        "desc": "Alege o poză din galerie sau fă una nouă. Atât are nevoie AI-ul."
+      },
+      {
+        "title": "Vezi cum îți stă",
+        "desc": "În circa 30 de secunde vezi cum arată pe tine. Îți place? O cumperi de la magazin. Nu te convinge? Mergi mai departe."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Funcții",
+    "title_a": "Tot ce ai nevoie",
+    "title_b": "ca să cumperi mai inteligent.",
+    "items": [
+      {
+        "title": "Orice haină, nu doar din catalog",
+        "desc": "Ai văzut ceva pe alt site sau ai deja piesa în dulap? Încarci o poză cu haina și o probezi la fel."
+      },
+      {
+        "title": "Rezultat în ~30 de secunde",
+        "desc": "O probă realistă, generată cât aștepți. Fără coadă, fără email, fără să schimbi aplicația."
+      },
+      {
+        "title": "4.000+ produse",
+        "desc": "Articole reale de la magazine reale, cu prețuri reale. Catalogul crește constant."
+      },
+      {
+        "title": "Pozele rămân ale tale",
+        "desc": "Poza ta e folosită doar pentru a genera rezultatul, apoi e ștearsă. Nimic nu se stochează în cloud și nimic nu antrenează modele AI."
+      },
+      {
+        "title": "Împarte ținutele",
+        "desc": "Salvezi rezultatul și îl postezi direct pe TikTok sau Instagram."
+      },
+      {
+        "title": "8 limbi",
+        "desc": "Engleză, română, franceză, germană, spaniolă, italiană, portugheză și olandeză."
+      },
+      {
+        "title": "Gratuit la început",
+        "desc": "Primești credite gratuite la înregistrare. Cumperi mai multe doar dacă vrei."
+      }
+    ]
+  },
+  "credits": {
+    "eyebrow": "Credite",
+    "title_a": "Începi gratuit.",
+    "title_b": "Plătești doar dacă îți place.",
+    "sub": "Fiecare probă consumă un credit. Fără abonament, fără card la început.",
+    "items": [
+      {
+        "title": "Credite gratuite la înregistrare",
+        "desc": "Îți faci cont și încerci aplicația imediat."
+      },
+      {
+        "title": "Pachete de credite când ai nevoie",
+        "desc": "Cumperi credite suplimentare din aplicație. Creditele cumpărate nu expiră."
+      },
+      {
+        "title": "Gestionat de Apple și Google",
+        "desc": "Plățile trec prin App Store sau Google Play. Noi nu vedem niciodată cardul tău."
+      }
+    ],
+    "note": "Rambursările sunt gestionate de Apple sau Google.",
+    "note_link": "Citește politica de rambursare"
+  },
+  "faq": {
+    "eyebrow": "Întrebări frecvente",
+    "title_a": "Întrebări,",
+    "title_b": "cu răspuns.",
+    "items": [
+      {
+        "q": "focus on me e gratuit?",
+        "a": "Da. Primești credite gratuite când îți creezi cont. Dacă le termini, poți cumpăra pachete de credite din aplicație, dar nu ești obligat."
+      },
+      {
+        "q": "Cât de exactă e proba?",
+        "a": "Rezultatul e o previzualizare generată de AI care arată cum stă o piesă pe corpul tău, ca formă, culoare și proporții. E un ghid vizual, nu o garanție de mărime, așa că verifică mereu tabelul de mărimi al magazinului."
+      },
+      {
+        "q": "Ce se întâmplă cu poza mea?",
+        "a": "E trimisă serviciului nostru AI doar când apeși Probează, e folosită pentru a genera rezultatul, apoi e ștearsă. Nu o păstrăm, nu antrenăm modele cu ea, iar rezultatul se salvează doar pe telefonul tău."
+      },
+      {
+        "q": "De unde vin produsele?",
+        "a": "Din magazinele online ale unor retaileri reali, prin rețele de afiliere. Cumperi direct de la magazin, la prețul magazinului."
+      },
+      {
+        "q": "Pot proba haine care nu sunt în catalog?",
+        "a": "Da. Încarci o poză cu orice haină, de pe un site, dintr-un screenshot sau din dulapul tău, iar aplicația o randează pe tine exact ca pe un produs din catalog."
+      },
+      {
+        "q": "Cumpăr haine din aplicație?",
+        "a": "Nu. focus on me îți arată articolul pe tine și te trimite pe site-ul magazinului ca să finalizezi comanda. Livrarea, mărimile și returul sunt gestionate de magazin."
+      },
+      {
+        "q": "Cât durează o probă?",
+        "a": "În jur de 30 de secunde, în funcție de conexiune."
+      },
+      {
+        "q": "Pot primi banii înapoi pe credite?",
+        "a": "Plățile sunt procesate de Apple sau Google, deci cererile de rambursare trec prin ei. Politica noastră de rambursare explică exact cum."
+      },
+      {
+        "q": "Ce vârstă trebuie să am?",
+        "a": "Minimum 13 ani, sau vârsta minimă pentru consimțământul la prelucrarea datelor din țara ta. Între 13 și 18 ani ai nevoie de acordul unui părinte sau tutore."
+      }
+    ]
+  },
+  "cta": {
+    "title_a": "Probează",
+    "title_b": "chiar azi.",
+    "sub": "În curând pe App Store și Google Play."
+  },
+  "footer": {
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni și condiții",
+    "refund": "Politica de rambursare",
+    "contact": "Contact",
+    "copy": "© 2026 Cubo Software · focus on me",
+    "legal_note": "Paginile legale sunt traduse pentru comoditate. În caz de neconcordanță, versiunea în engleză prevalează."
+  },
+  "contact": {
+    "title": "Contact",
+    "meta": "De obicei răspundem în 24 de ore.",
+    "intro": "Ai o întrebare, un bug de raportat sau o problemă cu o achiziție? Scrie-ne direct.",
+    "label": "Suport și întrebări generale",
+    "desc": "Probleme cu aplicația sau cu proba, achiziții și credite, cereri legate de date.",
+    "button": "Trimite email",
+    "hint_title": "Ai plătit, dar nu ai primit creditele?",
+    "hint": "Scrie-ne și rezolvăm. Pentru rambursări, cererile trec prin Apple sau Google."
+  }
+}

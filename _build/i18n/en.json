@@ -1,0 +1,191 @@
+{
+  "code": "en",
+  "name": "English",
+  "html_lang": "en",
+  "meta": {
+    "title": "focus on me — Try before you buy",
+    "description": "See any outfit on yourself before you buy it. AI virtual try-on with 4,000+ real products, results in about 30 seconds, and photos that never leave your phone."
+  },
+  "nav": {
+    "how": "How it works",
+    "features": "Features",
+    "credits": "Credits",
+    "faq": "FAQ",
+    "cta": "Get the app",
+    "back": "Back to home",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "AI virtual try-on",
+    "h1a": "Try before",
+    "h1b": "you buy.",
+    "sub": "See any outfit on yourself before you order it. Pick a piece, add your photo, and in about 30 seconds you know if it's a yes.",
+    "note": "Free credits when you sign up · Photos never stored",
+    "soon": "Coming soon",
+    "appstore": "App Store",
+    "play": "Google Play",
+    "chip1": "4,000+ products",
+    "chip2": "~30s per look"
+  },
+  "stats": [
+    {
+      "num": "4,000+",
+      "label": "Products from real retailers"
+    },
+    {
+      "num": "~30s",
+      "label": "To render a look"
+    },
+    {
+      "num": "8",
+      "label": "Languages"
+    },
+    {
+      "num": "0",
+      "label": "Photos kept on our servers"
+    }
+  ],
+  "how": {
+    "eyebrow": "How it works",
+    "title_a": "Three steps to your",
+    "title_b": "perfect outfit.",
+    "sub": "Browse the catalog, pick what you like, then see it on you, before spending a single euro.",
+    "steps": [
+      {
+        "title": "Pick a piece, or upload your own",
+        "desc": "Browse over 4,000 real products from shops you already know, or upload a photo of any garment you like. Either way, you're one tap away from trying it on."
+      },
+      {
+        "title": "Add your photo",
+        "desc": "Pick a photo from your gallery or take a new one. That's all the AI needs."
+      },
+      {
+        "title": "See yourself wearing it",
+        "desc": "In about 30 seconds, see how it looks on you. Love it? Buy it from the retailer. Not feeling it? Keep browsing."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Features",
+    "title_a": "Everything you need",
+    "title_b": "to shop smarter.",
+    "items": [
+      {
+        "title": "Any garment, not just the catalog",
+        "desc": "Saw something on another site, or in your own wardrobe? Upload a photo of the garment and try it on the same way."
+      },
+      {
+        "title": "Results in ~30 seconds",
+        "desc": "A realistic try-on rendered while you wait. No queue, no email, no switching apps."
+      },
+      {
+        "title": "4,000+ products",
+        "desc": "Real items from real retailers, with real prices. The catalog keeps growing."
+      },
+      {
+        "title": "Your photos stay yours",
+        "desc": "Your photo is used only to generate the result, then deleted. Nothing is stored in the cloud and nothing is used to train AI models."
+      },
+      {
+        "title": "Share your looks",
+        "desc": "Save the result and post it straight to TikTok or Instagram."
+      },
+      {
+        "title": "8 languages",
+        "desc": "English, Romanian, French, German, Spanish, Italian, Portuguese and Dutch."
+      },
+      {
+        "title": "Free to start",
+        "desc": "You get free credits when you sign up. Buy more only if you want to."
+      }
+    ]
+  },
+  "credits": {
+    "eyebrow": "Credits",
+    "title_a": "Start free.",
+    "title_b": "Pay only if you love it.",
+    "sub": "Every try-on uses one credit. No subscription, no card needed to start.",
+    "items": [
+      {
+        "title": "Free credits at sign-up",
+        "desc": "Create an account and try the app right away."
+      },
+      {
+        "title": "Credit packs when you need more",
+        "desc": "Buy extra credits inside the app. Purchased credits don't expire."
+      },
+      {
+        "title": "Handled by Apple and Google",
+        "desc": "Payments go through the App Store or Google Play. We never see your card."
+      }
+    ],
+    "note": "Refunds are handled by Apple or Google.",
+    "note_link": "Read our refund policy"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title_a": "Questions,",
+    "title_b": "answered.",
+    "items": [
+      {
+        "q": "Is focus on me free?",
+        "a": "Yes. You get free credits when you create an account. If you run out, you can buy credit packs inside the app, but you never have to."
+      },
+      {
+        "q": "How accurate is the try-on?",
+        "a": "The result is an AI-generated preview that shows how a piece looks on your body, colour and proportions. It's a visual guide, not a fitting guarantee, so always check the retailer's size chart."
+      },
+      {
+        "q": "What happens to my photo?",
+        "a": "It's sent to our AI service only when you tap Try On, used to render your result, then deleted. We don't keep it, we don't train models with it, and the result is saved only on your phone."
+      },
+      {
+        "q": "Where do the products come from?",
+        "a": "From the online shops of real retailers, through affiliate networks. You buy directly from the retailer, at the retailer's price."
+      },
+      {
+        "q": "Can I try on clothes that aren't in the catalog?",
+        "a": "Yes. Upload a photo of any garment, from a website, a screenshot or your own wardrobe, and the app renders it on you just like a catalog item."
+      },
+      {
+        "q": "Do I buy clothes inside the app?",
+        "a": "No. focus on me shows you the item on you and sends you to the retailer's website to complete the purchase. Delivery, sizing and returns are handled by the retailer."
+      },
+      {
+        "q": "How long does a try-on take?",
+        "a": "Around 30 seconds, depending on your connection."
+      },
+      {
+        "q": "Can I get a refund on credits?",
+        "a": "Payments are processed by Apple or Google, so refund requests go through them. Our refund policy explains exactly how."
+      },
+      {
+        "q": "How old do I have to be?",
+        "a": "At least 13, or the minimum age for data consent in your country. Between 13 and 18 you need a parent's or guardian's consent."
+      }
+    ]
+  },
+  "cta": {
+    "title_a": "Try it on",
+    "title_b": "today.",
+    "sub": "Launching soon on the App Store and Google Play."
+  },
+  "footer": {
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions",
+    "refund": "Refund policy",
+    "contact": "Contact",
+    "copy": "© 2026 Cubo Software · focus on me",
+    "legal_note": "Legal pages are available in every language. In case of discrepancy, the English version prevails."
+  },
+  "contact": {
+    "title": "Contact",
+    "meta": "We usually reply within 24 hours.",
+    "intro": "Have a question, a bug to report, or a problem with a purchase? Email us directly.",
+    "label": "Support & general inquiries",
+    "desc": "App issues, try-on problems, purchases and credits, privacy requests.",
+    "button": "Send email",
+    "hint_title": "Charged but didn't get your credits?",
+    "hint": "Write to us and we'll sort it out. For refunds, requests go through Apple or Google."
+  }
+}

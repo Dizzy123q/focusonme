@@ -1,0 +1,191 @@
+{
+  "code": "de",
+  "name": "Deutsch",
+  "html_lang": "de",
+  "meta": {
+    "title": "focus on me — Anprobieren, bevor du kaufst",
+    "description": "Sieh jedes Outfit an dir selbst, bevor du es kaufst. Virtuelle KI-Anprobe mit über 4.000 echten Produkten, Ergebnis in etwa 30 Sekunden, und Fotos, die dein Handy nie verlassen."
+  },
+  "nav": {
+    "how": "So funktioniert's",
+    "features": "Funktionen",
+    "credits": "Credits",
+    "faq": "FAQ",
+    "cta": "App holen",
+    "back": "Zurück zur Startseite",
+    "language": "Sprache"
+  },
+  "hero": {
+    "badge": "Virtuelle KI-Anprobe",
+    "h1a": "Anprobieren,",
+    "h1b": "bevor du kaufst.",
+    "sub": "Sieh jedes Outfit an dir, bevor du es bestellst. Teil auswählen, Foto hinzufügen, und in etwa 30 Sekunden weißt du, ob es passt.",
+    "note": "Gratis-Credits bei der Anmeldung · Fotos werden nie gespeichert",
+    "soon": "Bald verfügbar",
+    "appstore": "App Store",
+    "play": "Google Play",
+    "chip1": "4.000+ Produkte",
+    "chip2": "~30 s pro Look"
+  },
+  "stats": [
+    {
+      "num": "4.000+",
+      "label": "Produkte von echten Händlern"
+    },
+    {
+      "num": "~30 s",
+      "label": "Für einen Look"
+    },
+    {
+      "num": "8",
+      "label": "Sprachen"
+    },
+    {
+      "num": "0",
+      "label": "Fotos auf unseren Servern"
+    }
+  ],
+  "how": {
+    "eyebrow": "So funktioniert's",
+    "title_a": "Drei Schritte zum",
+    "title_b": "perfekten Outfit.",
+    "sub": "Katalog durchstöbern, aussuchen, was dir gefällt, und es an dir sehen, bevor du einen einzigen Euro ausgibst.",
+    "steps": [
+      {
+        "title": "Wähle ein Teil oder lade dein eigenes hoch",
+        "desc": "Stöbere durch über 4.000 echte Produkte von Shops, die du kennst, oder lade ein Foto von einem beliebigen Kleidungsstück hoch. So oder so bist du einen Tipp von der Anprobe entfernt."
+      },
+      {
+        "title": "Füge dein Foto hinzu",
+        "desc": "Wähle ein Foto aus deiner Galerie oder mach ein neues. Mehr braucht die KI nicht."
+      },
+      {
+        "title": "Sieh es an dir",
+        "desc": "In etwa 30 Sekunden siehst du, wie es an dir aussieht. Gefällt's dir? Kauf es beim Händler. Nicht so ganz? Stöbere weiter."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Funktionen",
+    "title_a": "Alles, was du brauchst,",
+    "title_b": "um klüger zu shoppen.",
+    "items": [
+      {
+        "title": "Jedes Kleidungsstück, nicht nur der Katalog",
+        "desc": "Etwas auf einer anderen Seite gesehen oder schon im Schrank? Lade ein Foto des Teils hoch und probiere es genauso an."
+      },
+      {
+        "title": "Ergebnis in ~30 Sekunden",
+        "desc": "Eine realistische Anprobe, gerendert während du wartest. Keine Warteschlange, keine E-Mail, kein App-Wechsel."
+      },
+      {
+        "title": "4.000+ Produkte",
+        "desc": "Echte Artikel von echten Händlern, zu echten Preisen. Der Katalog wächst ständig."
+      },
+      {
+        "title": "Deine Fotos bleiben deine",
+        "desc": "Dein Foto wird nur zum Erzeugen des Ergebnisses verwendet und dann gelöscht. Nichts landet in der Cloud, nichts trainiert KI-Modelle."
+      },
+      {
+        "title": "Teile deine Looks",
+        "desc": "Speichere das Ergebnis und poste es direkt auf TikTok oder Instagram."
+      },
+      {
+        "title": "8 Sprachen",
+        "desc": "Englisch, Rumänisch, Französisch, Deutsch, Spanisch, Italienisch, Portugiesisch und Niederländisch."
+      },
+      {
+        "title": "Kostenlos starten",
+        "desc": "Bei der Anmeldung bekommst du Gratis-Credits. Mehr kaufst du nur, wenn du willst."
+      }
+    ]
+  },
+  "credits": {
+    "eyebrow": "Credits",
+    "title_a": "Kostenlos starten.",
+    "title_b": "Nur zahlen, wenn du es liebst.",
+    "sub": "Jede Anprobe verbraucht einen Credit. Kein Abo, keine Karte zum Start.",
+    "items": [
+      {
+        "title": "Gratis-Credits bei der Anmeldung",
+        "desc": "Konto erstellen und die App sofort ausprobieren."
+      },
+      {
+        "title": "Credit-Pakete, wenn du mehr brauchst",
+        "desc": "Kaufe zusätzliche Credits in der App. Gekaufte Credits verfallen nicht."
+      },
+      {
+        "title": "Abgewickelt von Apple und Google",
+        "desc": "Zahlungen laufen über den App Store oder Google Play. Wir sehen deine Karte nie."
+      }
+    ],
+    "note": "Erstattungen werden von Apple oder Google abgewickelt.",
+    "note_link": "Unsere Erstattungsrichtlinie lesen"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title_a": "Fragen,",
+    "title_b": "beantwortet.",
+    "items": [
+      {
+        "q": "Ist focus on me kostenlos?",
+        "a": "Ja. Beim Erstellen eines Kontos bekommst du Gratis-Credits. Wenn sie aufgebraucht sind, kannst du Credit-Pakete in der App kaufen, musst es aber nie."
+      },
+      {
+        "q": "Wie genau ist die Anprobe?",
+        "a": "Das Ergebnis ist eine KI-generierte Vorschau, die zeigt, wie ein Teil an deinem Körper wirkt: Form, Farbe und Proportionen. Es ist eine visuelle Orientierung, keine Passform-Garantie. Prüfe immer die Größentabelle des Händlers."
+      },
+      {
+        "q": "Was passiert mit meinem Foto?",
+        "a": "Es wird nur beim Tippen auf Anprobieren an unseren KI-Dienst gesendet, zum Rendern des Ergebnisses verwendet und dann gelöscht. Wir behalten es nicht, trainieren keine Modelle damit, und das Ergebnis wird nur auf deinem Handy gespeichert."
+      },
+      {
+        "q": "Woher kommen die Produkte?",
+        "a": "Aus den Online-Shops echter Händler, über Affiliate-Netzwerke. Du kaufst direkt beim Händler, zum Preis des Händlers."
+      },
+      {
+        "q": "Kann ich Kleidung anprobieren, die nicht im Katalog ist?",
+        "a": "Ja. Lade ein Foto von einem beliebigen Kleidungsstück hoch, von einer Website, einem Screenshot oder aus deinem eigenen Schrank, und die App rendert es an dir wie einen Katalogartikel."
+      },
+      {
+        "q": "Kaufe ich Kleidung in der App?",
+        "a": "Nein. focus on me zeigt dir den Artikel an dir und leitet dich zur Website des Händlers, um den Kauf abzuschließen. Lieferung, Größen und Rücksendungen regelt der Händler."
+      },
+      {
+        "q": "Wie lange dauert eine Anprobe?",
+        "a": "Etwa 30 Sekunden, je nach Verbindung."
+      },
+      {
+        "q": "Kann ich Credits erstattet bekommen?",
+        "a": "Zahlungen werden von Apple oder Google abgewickelt, Erstattungsanfragen laufen also über sie. Unsere Erstattungsrichtlinie erklärt genau, wie."
+      },
+      {
+        "q": "Wie alt muss ich sein?",
+        "a": "Mindestens 13, oder das Mindestalter für die Einwilligung zur Datenverarbeitung in deinem Land. Zwischen 13 und 18 brauchst du die Zustimmung eines Elternteils oder Erziehungsberechtigten."
+      }
+    ]
+  },
+  "cta": {
+    "title_a": "Probier's",
+    "title_b": "noch heute.",
+    "sub": "Bald im App Store und bei Google Play."
+  },
+  "footer": {
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "refund": "Erstattungsrichtlinie",
+    "contact": "Kontakt",
+    "copy": "© 2026 Cubo Software · focus on me",
+    "legal_note": "Die rechtlichen Seiten sind zur Orientierung übersetzt. Bei Abweichungen gilt die englische Fassung."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "meta": "Wir antworten in der Regel innerhalb von 24 Stunden.",
+    "intro": "Eine Frage, ein Bug oder ein Problem mit einem Kauf? Schreib uns direkt.",
+    "label": "Support und allgemeine Anfragen",
+    "desc": "Probleme mit der App oder der Anprobe, Käufe und Credits, Datenschutzanfragen.",
+    "button": "E-Mail senden",
+    "hint_title": "Abgebucht, aber keine Credits erhalten?",
+    "hint": "Schreib uns, und wir klären das. Erstattungsanfragen laufen über Apple oder Google."
+  }
+}

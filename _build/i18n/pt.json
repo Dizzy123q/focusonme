@@ -1,0 +1,191 @@
+{
+  "code": "pt",
+  "name": "Português",
+  "html_lang": "pt",
+  "meta": {
+    "title": "focus on me — Experimenta antes de comprar",
+    "description": "Vê qualquer peça vestida em ti antes de a comprares. Prova virtual com IA, mais de 4.000 produtos reais, resultado em cerca de 30 segundos e fotos que nunca saem do teu telemóvel."
+  },
+  "nav": {
+    "how": "Como funciona",
+    "features": "Funcionalidades",
+    "credits": "Créditos",
+    "faq": "FAQ",
+    "cta": "Obter a app",
+    "back": "Voltar ao início",
+    "language": "Idioma"
+  },
+  "hero": {
+    "badge": "Prova virtual com IA",
+    "h1a": "Experimenta antes",
+    "h1b": "de comprar.",
+    "sub": "Vê qualquer peça vestida em ti antes de a encomendares. Escolhe uma peça, adiciona a tua foto e em cerca de 30 segundos sabes se é um sim.",
+    "note": "Créditos grátis ao registar · Fotos nunca guardadas",
+    "soon": "Em breve",
+    "appstore": "App Store",
+    "play": "Google Play",
+    "chip1": "4.000+ produtos",
+    "chip2": "~30 s por look"
+  },
+  "stats": [
+    {
+      "num": "4.000+",
+      "label": "Produtos de lojas reais"
+    },
+    {
+      "num": "~30 s",
+      "label": "Para gerar um look"
+    },
+    {
+      "num": "8",
+      "label": "Idiomas"
+    },
+    {
+      "num": "0",
+      "label": "Fotos guardadas nos nossos servidores"
+    }
+  ],
+  "how": {
+    "eyebrow": "Como funciona",
+    "title_a": "Três passos até",
+    "title_b": "o look perfeito.",
+    "sub": "Explora o catálogo, escolhe o que gostas e vê a peça em ti, antes de gastares um único euro.",
+    "steps": [
+      {
+        "title": "Escolhe uma peça ou carrega a tua",
+        "desc": "Explora mais de 4.000 produtos reais de lojas que já conheces, ou carrega uma foto de qualquer peça de que gostes. Em ambos os casos estás a um toque de a experimentar."
+      },
+      {
+        "title": "Adiciona a tua foto",
+        "desc": "Escolhe uma foto da galeria ou tira uma nova. É tudo o que a IA precisa."
+      },
+      {
+        "title": "Vê-te com a peça vestida",
+        "desc": "Em cerca de 30 segundos vês como te fica. Adoras? Compra na loja. Não te convence? Continua a explorar."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Funcionalidades",
+    "title_a": "Tudo o que precisas",
+    "title_b": "para comprar melhor.",
+    "items": [
+      {
+        "title": "Qualquer peça, não só o catálogo",
+        "desc": "Viste algo noutro site ou já o tens no armário? Carrega uma foto da peça e experimenta-a da mesma forma."
+      },
+      {
+        "title": "Resultado em ~30 segundos",
+        "desc": "Uma prova realista gerada enquanto esperas. Sem filas, sem emails, sem mudar de app."
+      },
+      {
+        "title": "4.000+ produtos",
+        "desc": "Artigos reais de lojas reais, a preços reais. O catálogo não para de crescer."
+      },
+      {
+        "title": "As tuas fotos continuam tuas",
+        "desc": "A tua foto é usada apenas para gerar o resultado e depois apagada. Nada fica na nuvem e nada treina modelos de IA."
+      },
+      {
+        "title": "Partilha os teus looks",
+        "desc": "Guarda o resultado e publica-o diretamente no TikTok ou no Instagram."
+      },
+      {
+        "title": "8 idiomas",
+        "desc": "Inglês, romeno, francês, alemão, espanhol, italiano, português e neerlandês."
+      },
+      {
+        "title": "Grátis para começar",
+        "desc": "Recebes créditos grátis ao registares-te. Compras mais só se quiseres."
+      }
+    ]
+  },
+  "credits": {
+    "eyebrow": "Créditos",
+    "title_a": "Começa grátis.",
+    "title_b": "Paga só se adorares.",
+    "sub": "Cada prova usa um crédito. Sem subscrição, sem cartão para começar.",
+    "items": [
+      {
+        "title": "Créditos grátis ao registar",
+        "desc": "Cria uma conta e experimenta a app de imediato."
+      },
+      {
+        "title": "Packs de créditos quando precisares",
+        "desc": "Compra créditos extra dentro da app. Os créditos comprados não expiram."
+      },
+      {
+        "title": "Gerido pela Apple e pela Google",
+        "desc": "Os pagamentos passam pela App Store ou pelo Google Play. Nunca vemos o teu cartão."
+      }
+    ],
+    "note": "Os reembolsos são geridos pela Apple ou pela Google.",
+    "note_link": "Lê a nossa política de reembolso"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title_a": "Perguntas,",
+    "title_b": "respondidas.",
+    "items": [
+      {
+        "q": "A focus on me é grátis?",
+        "a": "Sim. Recebes créditos grátis ao criar conta. Se acabarem, podes comprar packs de créditos dentro da app, mas nunca és obrigado."
+      },
+      {
+        "q": "Quão fiel é a prova?",
+        "a": "O resultado é uma pré-visualização gerada por IA que mostra como uma peça fica no teu corpo, na cor e nas proporções. É um guia visual, não uma garantia de tamanho, por isso confirma sempre a tabela de tamanhos da loja."
+      },
+      {
+        "q": "O que acontece à minha foto?",
+        "a": "É enviada ao nosso serviço de IA apenas quando tocas em Experimentar, usada para gerar o resultado e depois apagada. Não a guardamos, não treinamos modelos com ela e o resultado fica guardado só no teu telemóvel."
+      },
+      {
+        "q": "De onde vêm os produtos?",
+        "a": "Das lojas online de retalhistas reais, através de redes de afiliados. Compras diretamente na loja, ao preço da loja."
+      },
+      {
+        "q": "Posso experimentar roupa que não está no catálogo?",
+        "a": "Sim. Carrega uma foto de qualquer peça, de um site, de uma captura de ecrã ou do teu armário, e a app mostra-a vestida em ti como um artigo do catálogo."
+      },
+      {
+        "q": "Compro a roupa dentro da app?",
+        "a": "Não. A focus on me mostra-te a peça vestida em ti e leva-te ao site da loja para concluir a compra. Entrega, tamanhos e devoluções são tratados pela loja."
+      },
+      {
+        "q": "Quanto tempo demora uma prova?",
+        "a": "Cerca de 30 segundos, dependendo da ligação."
+      },
+      {
+        "q": "Posso pedir reembolso dos créditos?",
+        "a": "Os pagamentos são processados pela Apple ou pela Google, por isso os pedidos de reembolso passam por elas. A nossa política de reembolso explica exatamente como."
+      },
+      {
+        "q": "Que idade preciso de ter?",
+        "a": "Pelo menos 13 anos, ou a idade mínima para consentir o tratamento de dados no teu país. Entre os 13 e os 18 anos precisas do consentimento de um dos pais ou tutor."
+      }
+    ]
+  },
+  "cta": {
+    "title_a": "Experimenta",
+    "title_b": "hoje mesmo.",
+    "sub": "Em breve na App Store e no Google Play."
+  },
+  "footer": {
+    "privacy": "Política de privacidade",
+    "terms": "Termos e condições",
+    "refund": "Política de reembolso",
+    "contact": "Contacto",
+    "copy": "© 2026 Cubo Software · focus on me",
+    "legal_note": "As páginas legais estão traduzidas por conveniência. Em caso de divergência, prevalece a versão em inglês."
+  },
+  "contact": {
+    "title": "Contacto",
+    "meta": "Normalmente respondemos em 24 horas.",
+    "intro": "Tens uma dúvida, um erro para reportar ou um problema com uma compra? Escreve-nos diretamente.",
+    "label": "Suporte e questões gerais",
+    "desc": "Problemas com a app ou com a prova, compras e créditos, pedidos sobre os teus dados.",
+    "button": "Enviar email",
+    "hint_title": "Foste cobrado mas não recebeste os créditos?",
+    "hint": "Escreve-nos e resolvemos. Para reembolsos, os pedidos passam pela Apple ou pela Google."
+  }
+}

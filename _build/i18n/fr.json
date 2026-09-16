@@ -1,0 +1,191 @@
+{
+  "code": "fr",
+  "name": "Français",
+  "html_lang": "fr",
+  "meta": {
+    "title": "focus on me — Essayez avant d'acheter",
+    "description": "Voyez n'importe quelle tenue sur vous avant de l'acheter. Essayage virtuel par IA, plus de 4 000 produits réels, résultat en 30 secondes environ, et des photos qui ne quittent jamais votre téléphone."
+  },
+  "nav": {
+    "how": "Comment ça marche",
+    "features": "Fonctionnalités",
+    "credits": "Crédits",
+    "faq": "FAQ",
+    "cta": "Télécharger l'app",
+    "back": "Retour à l'accueil",
+    "language": "Langue"
+  },
+  "hero": {
+    "badge": "Essayage virtuel par IA",
+    "h1a": "Essayez avant",
+    "h1b": "d'acheter.",
+    "sub": "Voyez n'importe quelle tenue sur vous avant de la commander. Choisissez une pièce, ajoutez votre photo, et en 30 secondes environ vous savez si c'est un oui.",
+    "note": "Crédits gratuits à l'inscription · Photos jamais stockées",
+    "soon": "Bientôt disponible",
+    "appstore": "App Store",
+    "play": "Google Play",
+    "chip1": "4 000+ produits",
+    "chip2": "~30 s par tenue"
+  },
+  "stats": [
+    {
+      "num": "4 000+",
+      "label": "Produits de vraies boutiques"
+    },
+    {
+      "num": "~30 s",
+      "label": "Pour générer une tenue"
+    },
+    {
+      "num": "8",
+      "label": "Langues"
+    },
+    {
+      "num": "0",
+      "label": "Photo conservée sur nos serveurs"
+    }
+  ],
+  "how": {
+    "eyebrow": "Comment ça marche",
+    "title_a": "Trois étapes vers",
+    "title_b": "la tenue parfaite.",
+    "sub": "Parcourez le catalogue, choisissez ce qui vous plaît, puis voyez-le sur vous, avant de dépenser un seul euro.",
+    "steps": [
+      {
+        "title": "Choisissez une pièce, ou importez la vôtre",
+        "desc": "Parcourez plus de 4 000 produits réels de boutiques que vous connaissez, ou importez la photo de n'importe quel vêtement qui vous plaît. Dans les deux cas, l'essayage est à une touche."
+      },
+      {
+        "title": "Ajoutez votre photo",
+        "desc": "Choisissez une photo dans votre galerie ou prenez-en une nouvelle. C'est tout ce dont l'IA a besoin."
+      },
+      {
+        "title": "Voyez-la sur vous",
+        "desc": "En 30 secondes environ, voyez le rendu sur vous. Ça vous plaît ? Achetez-la chez le marchand. Pas convaincu ? Continuez à explorer."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Fonctionnalités",
+    "title_a": "Tout ce qu'il faut",
+    "title_b": "pour acheter plus malin.",
+    "items": [
+      {
+        "title": "N'importe quel vêtement, pas seulement le catalogue",
+        "desc": "Vu quelque chose sur un autre site, ou déjà dans votre placard ? Importez une photo du vêtement et essayez-le de la même façon."
+      },
+      {
+        "title": "Résultat en ~30 secondes",
+        "desc": "Un essayage réaliste généré pendant que vous patientez. Pas de file d'attente, pas d'email, pas de changement d'app."
+      },
+      {
+        "title": "4 000+ produits",
+        "desc": "De vrais articles de vraies boutiques, aux vrais prix. Le catalogue s'agrandit sans cesse."
+      },
+      {
+        "title": "Vos photos restent à vous",
+        "desc": "Votre photo sert uniquement à générer le résultat, puis elle est supprimée. Rien n'est stocké dans le cloud et rien ne sert à entraîner des modèles d'IA."
+      },
+      {
+        "title": "Partagez vos tenues",
+        "desc": "Enregistrez le résultat et publiez-le directement sur TikTok ou Instagram."
+      },
+      {
+        "title": "8 langues",
+        "desc": "Anglais, roumain, français, allemand, espagnol, italien, portugais et néerlandais."
+      },
+      {
+        "title": "Gratuit pour commencer",
+        "desc": "Vous recevez des crédits gratuits à l'inscription. Achetez-en plus seulement si vous le souhaitez."
+      }
+    ]
+  },
+  "credits": {
+    "eyebrow": "Crédits",
+    "title_a": "Commencez gratuitement.",
+    "title_b": "Payez seulement si vous adorez.",
+    "sub": "Chaque essayage utilise un crédit. Pas d'abonnement, pas de carte pour commencer.",
+    "items": [
+      {
+        "title": "Crédits gratuits à l'inscription",
+        "desc": "Créez un compte et essayez l'app tout de suite."
+      },
+      {
+        "title": "Des packs quand il vous en faut plus",
+        "desc": "Achetez des crédits supplémentaires dans l'app. Les crédits achetés n'expirent pas."
+      },
+      {
+        "title": "Géré par Apple et Google",
+        "desc": "Les paiements passent par l'App Store ou Google Play. Nous ne voyons jamais votre carte."
+      }
+    ],
+    "note": "Les remboursements sont gérés par Apple ou Google.",
+    "note_link": "Lire notre politique de remboursement"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title_a": "Vos questions,",
+    "title_b": "nos réponses.",
+    "items": [
+      {
+        "q": "focus on me est-il gratuit ?",
+        "a": "Oui. Vous recevez des crédits gratuits à la création de votre compte. S'ils sont épuisés, vous pouvez acheter des packs de crédits dans l'app, mais rien ne vous y oblige."
+      },
+      {
+        "q": "L'essayage est-il fidèle ?",
+        "a": "Le résultat est un aperçu généré par IA qui montre le rendu d'une pièce sur votre corps, sa couleur et ses proportions. C'est un guide visuel, pas une garantie de taille : vérifiez toujours le guide des tailles du marchand."
+      },
+      {
+        "q": "Que devient ma photo ?",
+        "a": "Elle est envoyée à notre service d'IA uniquement quand vous appuyez sur Essayer, utilisée pour générer votre résultat, puis supprimée. Nous ne la conservons pas, nous n'entraînons aucun modèle avec, et le résultat n'est enregistré que sur votre téléphone."
+      },
+      {
+        "q": "D'où viennent les produits ?",
+        "a": "Des boutiques en ligne de vrais marchands, via des réseaux d'affiliation. Vous achetez directement chez le marchand, au prix du marchand."
+      },
+      {
+        "q": "Puis-je essayer des vêtements absents du catalogue ?",
+        "a": "Oui. Importez la photo de n'importe quel vêtement, depuis un site, une capture d'écran ou votre propre garde-robe, et l'app le rend sur vous comme un article du catalogue."
+      },
+      {
+        "q": "Est-ce que j'achète les vêtements dans l'app ?",
+        "a": "Non. focus on me vous montre l'article sur vous et vous envoie sur le site du marchand pour finaliser l'achat. Livraison, tailles et retours sont gérés par le marchand."
+      },
+      {
+        "q": "Combien de temps prend un essayage ?",
+        "a": "Environ 30 secondes, selon votre connexion."
+      },
+      {
+        "q": "Puis-je me faire rembourser des crédits ?",
+        "a": "Les paiements sont traités par Apple ou Google, les demandes de remboursement passent donc par eux. Notre politique de remboursement explique précisément comment faire."
+      },
+      {
+        "q": "Quel âge faut-il avoir ?",
+        "a": "Au moins 13 ans, ou l'âge minimum de consentement au traitement des données dans votre pays. Entre 13 et 18 ans, l'accord d'un parent ou tuteur est nécessaire."
+      }
+    ]
+  },
+  "cta": {
+    "title_a": "Essayez-la",
+    "title_b": "dès aujourd'hui.",
+    "sub": "Bientôt sur l'App Store et Google Play."
+  },
+  "footer": {
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "refund": "Politique de remboursement",
+    "contact": "Contact",
+    "copy": "© 2026 Cubo Software · focus on me",
+    "legal_note": "Les pages légales sont traduites pour votre commodité. En cas de divergence, la version anglaise prévaut."
+  },
+  "contact": {
+    "title": "Contact",
+    "meta": "Nous répondons généralement sous 24 heures.",
+    "intro": "Une question, un bug à signaler ou un problème avec un achat ? Écrivez-nous directement.",
+    "label": "Support et questions générales",
+    "desc": "Problèmes d'app ou d'essayage, achats et crédits, demandes liées aux données.",
+    "button": "Envoyer un email",
+    "hint_title": "Débité mais sans vos crédits ?",
+    "hint": "Écrivez-nous et nous réglons ça. Pour les remboursements, les demandes passent par Apple ou Google."
+  }
+}
